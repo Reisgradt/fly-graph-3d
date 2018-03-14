@@ -1,7 +1,7 @@
 ## Fly-graph-3d
 Библиотека, использующая three.js, для отрисовки 3d графиков. Камерой можно управлять и летать в пространстве (WASD + RF для подъёма/спуска), график же отрисовывается дальше при движении камеры.
 
-![Пример графика](https://github.com/Reisgradt/fly-graph-3d/tree/master/example.PNG "Пример графика")
+![Пример графика](https://github.com/Reisgradt/fly-graph-3d/blob/master/example.PNG "Пример графика")
 
 ### Пример использования
 ```javascript
